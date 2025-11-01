@@ -58,10 +58,10 @@ Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut:
 ## 4. Screenshot Aplikasi
 
 ### Halaman Utama (Pencarian)
-![Screenshot Halaman Utama](https://github.com/)
+![Screenshot Halaman Utama](https://github.com/user-attachments/assets/2b65bcdc-7a17-4e03-bef7-993892cb2a00)
 
-### Halaman Detail Karya Seni
-![Screenshot Halaman Detail](https://github.com/)
+### Halaman Detail Film
+![Screenshot Halaman Detail](https://github.com/user-attachments/assets/6edc9785-2265-42cb-afeb-f2565717d5eb)
 
-### Halaman Favorit
-![Screenshot Halaman Favorit](https://github.com/)
+### Halaman Film Favorit
+![Screenshot Halaman Favorit](https://github.com/user-attachments/assets/56393a67-6c7c-4a3c-903c-6010c42e5090)
