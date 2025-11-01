@@ -29,7 +29,8 @@ Pastikan Anda telah menginstal [Node.js](https://nodejs.org/) (versi 18+ direkom
 
 
 1. **Clone Reposiory**
-```bash git clone https://github.com/nskaq/uts-pemweb-123140030
+```bash 
+git clone https://github.com/nskaq/uts-pemweb-123140030
 cd uts-pemweb-12310030
 ```
 2.  **Instal dependensi:**
@@ -50,7 +51,7 @@ cd uts-pemweb-12310030
 
 Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut:
 
-[*LINK DEPLOYMENT*] ()
+[*LINK DEPLOYMENT*] (https://uts-pemweb-123140030.vercel.app/)
 
 ---
 
