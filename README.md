@@ -1,16 +1,66 @@
-# React + Vite
+# 🎬 Aplikasi Pencari Film OMDb
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- *Nama:* Annisa Al-Qoriah
+- *NIM:* 123140030
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📄 Deskripsi Project
 
-## React Compiler
+Aplikasi ini adalah sebuah katalog film yang dibuat menggunakan *React, **Vite, dan **Tailwind CSS. Aplikasi ini mengambil data secara dinamis dari **OMDb API* untuk memungkinkan pengguna melakukan hal berikut:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Mencari film berdasarkan judul dan tahun.
+* Melihat detail lengkap film (seperti plot, sutradara, rating, dll.) dalam sebuah modal.
+* Menambahkan film ke daftar "Favorit".
+* Menghapus film dari daftar "Favorit".
+* Melihat semua film yang telah ditandai sebagai favorit di halaman terpisah.
 
-## Expanding the ESLint configuration
+Daftar favorit disimpan di localStorage browser, sehingga pilihan pengguna akan tetap ada bahkan setelah browser ditutup.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Instalasi dan Cara Menjalankan
+
+Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal Anda.
+
+### 1. Prasyarat
+
+Pastikan Anda telah menginstal [Node.js](https://nodejs.org/) (versi 18+ direkomendasikan).
+
+
+1. **Clone Reposiory**
+```bash git clone https://github.com/nskaq/uts-pemweb-123140030
+cd uts-pemweb-12310030
+```
+2.  **Instal dependensi:**
+```bash
+    npm install
+```  
+
+3.  **Jalankan aplikasi:**
+```bash
+    npm run dev
+```
+
+4.  Buka browser Anda dan kunjungi http://localhost:5173 (atau port lain yang ditampilkan di terminal Anda).
+
+---
+
+## 3. Link Deployment
+
+Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut:
+
+[*LINK DEPLOYMENT*] ()
+
+---
+
+## 4. Screenshot Aplikasi
+
+### Halaman Utama (Pencarian)
+![Screenshot Halaman Utama](https://github.com/)
+
+### Halaman Detail Karya Seni
+![Screenshot Halaman Detail](https://github.com/)
+
+### Halaman Favorit
+![Screenshot Halaman Favorit](https://github.com/)
